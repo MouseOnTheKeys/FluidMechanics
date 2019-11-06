@@ -1,7 +1,7 @@
 """
 Spyder Editor
 
-Navie-Stoks
+Navier-Stoks
 """
 
 import math
