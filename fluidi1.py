@@ -1,7 +1,7 @@
 """
 Spyder Editor
 
-Navier-Stoks
+Dvopol, Vrtlog
 """
 
 import math
