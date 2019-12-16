@@ -2,7 +2,7 @@
 """
 Spyder Editor
 
-Navie-Stoks
+Graficko prikazivanja uniformnog strujanja, ponora i izvora, dvopola, Rankinovog Polutela...
 """
 
 import math
