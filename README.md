@@ -1,4 +1,4 @@
 # Fluid Mechanics and Dynamics
 
 Visualization for Streamlines for the incompressible potential flow around a circular cylinder in a uniform onflow,
-Rankin Half-Body, Source and cink using Numpy, Matplotlib in PYTHON.
+Rankin Half-Body, Source and sink using Numpy, Matplotlib in PYTHON.
